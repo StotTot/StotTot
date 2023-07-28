@@ -1,6 +1,5 @@
 # You can learn more about me @ https://stottot.github.io/
 ### Howdy 👋, my name is Aristotle
-#### Java Developer, looking to transition to C# (game dev) / Python (machine learning & bots)
 
 I create Java apis and bots for social media. I enjoy learning new languages and making things move. I prefer tinkering with the back-end more than the front-end.
 
